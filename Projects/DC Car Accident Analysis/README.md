@@ -20,10 +20,10 @@ After the packages have been installed, the program can be executed from a Jupyt
 The .ipynb file can be opened and executed in Jupyter Notebook. 
 
 ### File Directory
+- DC Traffic Accident Analysis vX_Y.ipynb: Python notebook containing all analysis code.
 - Raw Data.zip: Zip file containing raw data.
-  - DC Traffic Accident Analysis vX_Y.ipynb: Python notebook containing all analysis code.
   - dc_crashed_filtered.csv: Csv file containing raw car accident data.
-- Weather_data_17to19 (folder): Folder containing three .csv files with raw weather data.
+  - Weather_data_17to19 (folder): Folder containing three .csv files with raw weather data.
 
 ### Changelog
 - DC Traffic Accident Analysis v1_0: Python notebook uploaded to GitHub.
