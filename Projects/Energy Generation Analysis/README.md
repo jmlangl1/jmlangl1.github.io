@@ -21,3 +21,4 @@ Once all required packages have been installed, the files can be downloaded to a
 
 ### Changelog
 - Energy_Generation_Analysis_v1_0: Script first uploaded to GitHub.
+- Energy_Generation_Analysis_v1_1: Cleaned up the script. Added additional comments.
