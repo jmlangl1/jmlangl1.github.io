@@ -4,15 +4,15 @@
 
 ### Data Science Projects 
 
-[Washington DC Car Accident Analysis](/sample_page)
+[Washington DC Car Accident Analysis](https://github.com/jmlangl1/jmlangl1.github.io/tree/master/Projects/DC%20Car%20Accident%20Analysis)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Data Analysis Projects
 
-- [Democratic Presidential Candidate Analysis](http://example.com/)
-- [US Energy Generation Analaysis](http://example.com/)
+- [Democratic Presidential Candidate Analysis](https://github.com/jmlangl1/jmlangl1.github.io/tree/master/Projects/Election%20Coverage%20Analysis)
+- [US Energy Generation Analaysis](https://github.com/jmlangl1/jmlangl1.github.io/tree/master/Projects/Energy%20Generation%20Analysis)
 
 ---
 
