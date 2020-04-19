@@ -11,8 +11,6 @@ Each project has been formatted to be self contained within its respective folde
 ### File Directory
 - Images: Folder containing all image files used in the portfolio.
 - Projects: Folder containing all project files. Each project has its own folder.
-- index.: file setting the layout of the portfolio
-
-
-
-
+- LICENSE: Licensing information for the portfolio.
+- config.yml: Content for the left pane of the portfolio landing page.  
+- index.md: Information setting the layout and content for the rest of the portfolio including project titles/links.
