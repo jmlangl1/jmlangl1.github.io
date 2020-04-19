@@ -5,7 +5,6 @@
 ### Data Science Projects 
 
 [Washington DC Car Accident Analysis](https://github.com/jmlangl1/jmlangl1.github.io/tree/master/Projects/DC%20Car%20Accident%20Analysis)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
